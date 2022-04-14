@@ -8,7 +8,7 @@ pytesseract의 image_to_string 사용
 
 parameter = (사용 이미지, 언어, oem, psm 값 지정)
 
-#oem = OCR Engine modes
+# oem = OCR Engine modes
 0 - Legacy engine only. xx 한글 안됨
 
 1 - Neural nets LSTM engine only. 한글인식
@@ -18,7 +18,7 @@ parameter = (사용 이미지, 언어, oem, psm 값 지정)
 3 - Default, based on what is available. ** 한글인식
 
 
-#psm = Page segmentation modes
+# psm = Page segmentation modes
 0 - Orientation and script detection (OSD) only.  -- 방향및 스크립트 감지(OSD) 만 해당
 
 1 - Automatic page segmentation with OSD. ODB로 자동 페이지 분할
@@ -48,5 +48,5 @@ parameter = (사용 이미지, 언어, oem, psm 값 지정)
 13 - Raw line. Treat the image as a single text line, bypassing hacks that are Tesseract-specific.  원시라인, 이미지를 단일 텍스트로 처리
 
 
-#[출처]
+# [출처]
 Tesseract OCR oem psm|작성자 바다사랑

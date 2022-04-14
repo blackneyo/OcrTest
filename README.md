@@ -48,5 +48,11 @@ parameter = (사용 이미지, 언어, oem, psm 값 지정)
 13 - Raw line. Treat the image as a single text line, bypassing hacks that are Tesseract-specific.  원시라인, 이미지를 단일 텍스트로 처리
 
 
+
+
 # [출처]
 Tesseract OCR oem psm|작성자 바다사랑
+
+# test1 에 대한 insight
+![Test1](https://user-images.githubusercontent.com/87853267/163346471-eca1da25-868a-44b3-b59d-590bf2b4011f.jpg)
+![test1텍스트변환](https://user-images.githubusercontent.com/87853267/163346484-2fe8d249-893d-42fa-b335-ab7872619eb2.png)
